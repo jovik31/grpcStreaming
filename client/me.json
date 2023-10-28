@@ -1,0 +1,11 @@
+{
+  "numberVariable" : 4,
+  "predictVariable" : "People in Lab",
+  "variableNames" : "Temp, Light, O2",
+  "variableTypes" : "C, Lumen, PPP, integer",
+  "isCleaned" : true,
+  "isEncoded" : false,
+  "isStandardized" : false,
+  "descrition" : "This data represents sensors that are used to estimate the number of people inside a lab"
+
+}
